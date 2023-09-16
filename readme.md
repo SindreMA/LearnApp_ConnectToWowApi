@@ -1,0 +1,1 @@
+Small console app to learn how to fetch data from blizzard api for world of warcraft.
